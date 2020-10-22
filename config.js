@@ -1,5 +1,5 @@
 var config = {}
 
-config.spreadsheetKey = "1-WdseplJdtuti10G2MDLPPh4yhgC-f6GEfvnyZy7naE"
+config.spreadsheetKey = "1iWT_vouuYRcgavvERnN8I18IbqdtuTJTRMC2i_qFv_c"
 
 module.exports = config
